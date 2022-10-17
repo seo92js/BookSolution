@@ -1,3 +1,3 @@
-module Chap02 {
-	requires java.se;
+module chap03 {
+	exports sec02.exam02;
 }
