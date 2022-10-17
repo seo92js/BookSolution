@@ -1,3 +1,3 @@
-module Chap02 {
+module Chap01 {
 	requires java.se;
 }
